@@ -5,7 +5,7 @@
 
 Welcome to visit our new works, [Motion-Latent-Diffusion](https://github.com/ChenFengYe/motion-latent-diffusion) and [MotionGPT](https://github.com/OpenMotionLab/MotionGPT): 
 
-a unified and user-friendly motion-language model using LLMs.
+a **unified** and **user-friendly** motion-language model using **LLMs**.
 
 https://github.com/ChenFengYe/chenfengye/assets/16475892/2bd6d106-7e6a-4c8a-8834-9d37ce81830e
 
