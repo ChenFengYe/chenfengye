@@ -1,6 +1,6 @@
 Hi there, I am Chris (Chen Xin, 陈欣).
 - 👨🏼‍💻 I am a Researcher Scientist at Tencent, Shanghai.
-- 🔭 I’m currently working on Generative AI and Multimodal Models, including Language Driven Model and 3D AIGC.
+- 🔭 I’m currently working on **Generative AI** and **Multimodal Models**, including Language Driven Model and 3D **AIGC**.
 - 📖 Recent works: [Motion-Latent-Diffusion](https://github.com/ChenFengYe/motion-latent-diffusion) and [MotionGPT](https://github.com/OpenMotionLab/MotionGPT), a **unified** and **user-friendly** motion-language model using **LLMs**.
 
 [![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://chenxin.tech/) [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=en&user=7qeAJZ4AAAAJ)
