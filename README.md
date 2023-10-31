@@ -6,12 +6,13 @@ Hi there, I am Chris (Chen Xin, 陈欣).
 
 
 
-[![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://chenxin.tech/) [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=en&user=7qeAJZ4AAAAJ)
+[![](https://img.shields.io/badge/website-orange?&style=for-the-badge&logo=Google%20chrome&logoColor=white)](https://chenxin.tech/) [![](https://img.shields.io/badge/google%20scholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?hl=en&user=7qeAJZ4AAAAJ) [![](https://img.shields.io/twitter/follow/ChrisChen?style=for-the-badge&logo=Twitter&labelColor=00acee&logoColor=white&color=2bc4ff)](https://twitter.com/XinChen05417771)
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenfengye)](https://github.com/anuraghazra/github-readme-stats) -->
 https://github.com/ChenFengYe/chenfengye/assets/16475892/549feac5-7235-4b31-847e-569865edb0a5
 
 
+https://twitter.com/XinChen05417771
 
 <!--
 **guochengqian/guochengqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
