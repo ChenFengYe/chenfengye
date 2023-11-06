@@ -12,7 +12,6 @@ Hi there, I am Chris (Chen Xin, 陈欣).
 https://github.com/ChenFengYe/chenfengye/assets/16475892/549feac5-7235-4b31-847e-569865edb0a5
 
 
-https://twitter.com/XinChen05417771
 
 <!--
 **guochengqian/guochengqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
