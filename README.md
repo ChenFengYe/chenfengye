@@ -4,7 +4,7 @@ Hi there, I am Chris (Chen Xin, 陈欣).
 - 📖 Recent works: [Motion-Latent-Diffusion](https://github.com/ChenFengYe/motion-latent-diffusion) and [MotionGPT](https://github.com/OpenMotionLab/MotionGPT), a **unified** and **user-friendly** motion-language model using **LLMs**.
 - 📖 Recent works: [Paint3D](https://github.com/OpenTexture/Paint3D), a **lighting-less** texture diffusion model.
 - 📖 Recent works: [AppAgent](https://github.com/mnotgod96/AppAgent), a multimodal **agent** for smartphone apps.
-- 📖 Recent works: [LL3DA](https://github.com/Open3DA/LL3DA) and [M3DBench](https://github.com/OpenM3D/M3DBench) , a multimodal-language 3D assistant and benchmarch.
+- 📖 Recent works: [LL3DA](https://github.com/Open3DA/LL3DA) and [M3DBench](https://github.com/OpenM3D/M3DBench) , a multimodal-language 3D assistant and benchmark.
 
 
 
