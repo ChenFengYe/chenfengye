@@ -1,5 +1,5 @@
 Hi there, I am Chris (Chen Xin, 陈欣).
-- 👨🏼‍💻 I’m a Research Scientist and **Tech Lead** at ByteDance, San Jose, USA.
+- 👨🏼‍💻 I’m a Research Scientist at ByteDance, San Jose, USA.
 - 👨🏼‍💻 I was a Research Scientist at Tencent, Shanghai.
 - 🔭 I’m currently working on **Generative AI** and **Multimodal Models**, including Language Driven Model and 3D **AIGC**.
 - 📖 Recent works: [Motion-Latent-Diffusion](https://github.com/ChenFengYe/motion-latent-diffusion) and [MotionGPT](https://github.com/OpenMotionLab/MotionGPT), a **unified** and **user-friendly** motion-language model using **LLMs**.
